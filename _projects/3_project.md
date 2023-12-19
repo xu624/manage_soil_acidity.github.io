@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Topic 3
+description: Optimal management to reduce acidification and Cd pollution
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+# redirect: https://unsplash.com
 importance: 3
 category: work
 ---

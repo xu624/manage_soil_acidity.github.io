@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Topic 2
+description: Optimal manure recycling to reduce soil acidification
 img: assets/img/3.jpg
 importance: 2
 category: work
