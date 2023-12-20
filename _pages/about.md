@@ -34,7 +34,7 @@ Creating sustainable agricultural management
 
 <div class="header-bar">
   <h2>Why soil acidification is important?</h2>
-  {% include video.html path="assets/video/acidification.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+  {% include video.html path="assets/video/acidification.mp4" class="img-fluid rounded z-depth-1" controls=true %}
   
   Acidification of agricultural soils
   <div class="caption">
