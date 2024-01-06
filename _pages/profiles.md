@@ -13,18 +13,15 @@ profiles:
     image: Donghao.jpg
     content: donghao_xu.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Donghao Xu</p>
+    more_info: 
   - align: right
     image: Wim.jpg
     content: wim_devries.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>prof.dr.ir. Wim de Vries</p>
   - align: right
     image: Gerard.jpg
     content: gerard_ros.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>dr.ir. Gerard H. Ros</p>
 ---
