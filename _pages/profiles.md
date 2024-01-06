@@ -11,20 +11,20 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: Donghao.jpg
-    content: about_einstein.md
+    content: donghao_xu.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Donghao Xu</p>
   - align: right
     image: Wim.jpg
-    content: about_einstein.md
+    content: wim_devries.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Wim de Vries</p>
+      <p>prof.dr.ir. Wim de Vries</p>
   - align: right
     image: Gerard.jpg
-    content: about_einstein.md
+    content: gerard_ros.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Gerard H. Ros</p>
+      <p>dr.ir. Gerard H. Ros</p>
 ---

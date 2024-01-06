@@ -2,7 +2,7 @@
 layout: page
 title: Topic 2
 description: Optimal manure recycling to reduce soil acidification
-img: assets/img/3.jpg
+img: assets/img/manure_recycling.jpg
 importance: 2
 category: work
 giscus_comments: true

@@ -2,7 +2,7 @@
 layout: page
 title: Topic 1
 description: Major drivers of soil acidification in croplands
-img: assets/img/12.jpg
+img: assets/img/acidity_cause.jpg
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
