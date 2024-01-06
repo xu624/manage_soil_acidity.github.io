@@ -13,7 +13,8 @@ profiles:
     image: Donghao.jpg
     content: donghao_xu.md
     image_circular: false # crops the image to make it circular
-    more_info: 
+    more_info: >
+      <p>Email: donghao.xu@wur.nl</p>
   - align: right
     image: Wim.jpg
     content: wim_devries.md

@@ -1,25 +1,14 @@
 ---
 layout: page
 title: Topic 3
-description: Optimal management to reduce acidification and Cd pollution
-img: assets/img/7.jpg
-# redirect: https://unsplash.com
+description: Spatially optimal manure recycling to reduce nutrient surpluses and lime requirements
+img: assets/img/manure_potential.jpg
 importance: 3
 category: work
+giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The disconnection between livestock and arable production systems has resulted in highly elevated nutrient losses to the environment. Recycling organic manure can simultaneously reduce nutrient losses and soil acidification in croplands. However, the required amount of manure to counteract acidification may lead to an overuse of phosphorus (P). It is therefore essential to design an optimal soil and fertiliser strategy by combining mineral fertilizer, manure and lime to improve soil health and crop production accounting for spatial variation in soil and other agroecosystem properties. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -72,18 +72,18 @@ Creating sustainable agricultural management
 </thead>
 <tbody>
 <tr>
-<td markdown="span">Detailed assessments of main drivers of soil acidification on different soil types and land uses are lacking</td>
-<td markdown="span">To understand the historical rates and drivers of soil acidification in different cropland systems, supporting crop- and site-specific decisions on mitigation strategies</td>
+<td markdown="span">Lacking assessments of main drivers of soil acidification on different soil types and land uses</td>
+<td markdown="span">To understand the drivers of soil acidification in different cropping systems at regional level</td>
 <td markdown="span">Output 1</td>
 </tr>
 <tr>
-<td markdown="span">Insight into the spatial variation in optimal manure recycling has until now been limited to studies comparing regional N and P supply with crop demands</td>
-<td markdown="span">To assess the optimal manure recycling rate to simutanously reduce soil acidification and nutrient surpluses for croplands at the regional level</td>
+<td markdown="span">Optimal combination of mineral fertilizers, organic manure, and lime for specific crops in a given paddock is lacking</td>
+<td markdown="span">To assess the impacts of management on cropland acidification, guiding manure recycling and liming</td>
 <td markdown="span">Output 2</td>
 </tr>
 <tr>
-<td markdown="span">Synthesizing different disciplines is lacking on determining optimal combination of mineral fertilizers, organic manure, and lime for specific crops in a given paddock</td>
-<td markdown="span">To assess the impacts of agricultural management on soil acidification and related Cd pollution risks, guiding animal manure recycling and liming at local and regional level</td>
+<td markdown="span">Limited insight into the spatially optimal manure recycling to mitigate soil acidification</td>
+<td markdown="span">To assess the optimal manure recycling rate to reduce soil acidification at regional level</td>
 <td markdown="span">Output 3</td>
 </tr>
 </tbody>

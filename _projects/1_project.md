@@ -1,81 +1,38 @@
 ---
 layout: page
 title: Topic 1
-description: Major drivers of soil acidification in croplands
+description: Assessment of major drivers of soil acidification over 30 years in paddy and upland soils in China
 img: assets/img/major_drivers.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: 
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Naturally, soil acidification is slowly driven by the net leaching of bicarbonate (HCO3) and organic acid accompanying with base cations (BC), when excess precipitation occurs. 
+In croplands, application of acidifying fertilizers, especially ammonium-based (NH4) fertilizers, increases acid production via nitrification and the leaching of nitrate (NO3) along with BC. Continuous BC removal by crops also leads to soil acidification. Identifying the main drivers is essential to mitigate soil acidification.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/acidity_cause.jpg" title="cause of acidification" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Main processes related to soil acidification in croplands
 </div>
+
+In this topic, we calibrated the combined nutrient and soil acidification model VSD+ based on the historical changes in cropland acidification rates and their drivers for the period 1985-2019 at 151 sites, including paddy soils and upland soils, in a typical Chinese county naming Qiyang. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/model calibration.jpg" title="calibration of VSD+ model" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+Results show that, in non-calcareous soils, the acidity production was mainly driven by a pH-induced reduction in HCO3 leaching and N transformations in paddy soils. In upland soils, however, acidity production was mainly driven by N transformations and hardly changed over time. In calcareous soils, HCO3 leaching dominated in soil acidification, followed by N transformations. 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/acidity_budget.jpg" title="acidity budget" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
+Crop BC removal by harvesting played a minor role in both paddy and upland soils, but its relative importance increased in paddy soils. The acidity input was partly neutralized by HCO3 input from fertilizers and manure, which decreased over time due to a change from ammonia bicarbonate to urea.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
