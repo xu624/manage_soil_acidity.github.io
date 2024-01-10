@@ -74,17 +74,17 @@ Creating sustainable agricultural management
 <tr>
 <td markdown="span">Lacking assessments of main drivers of soil acidification on different soil types and land uses</td>
 <td markdown="span">To understand the drivers of soil acidification in different cropping systems at regional level</td>
-<td markdown="span">Output 1</td>
+<td markdown="span">Major drivers of soil acidification over 30 years in a typical agricultural county</td>
 </tr>
 <tr>
 <td markdown="span">Optimal combination of mineral fertilizers, organic manure, and lime for specific crops in a given paddock is lacking</td>
 <td markdown="span">To assess the impacts of management on cropland acidification, guiding manure recycling and liming</td>
-<td markdown="span">Output 2</td>
+<td markdown="span">Optimal fertilizer, manure and liming strategies to reduce soil acidification and nutrient losses </td>
 </tr>
 <tr>
 <td markdown="span">Limited insight into the spatially optimal manure recycling to mitigate soil acidification</td>
 <td markdown="span">To assess the optimal manure recycling rate to reduce soil acidification at regional level</td>
-<td markdown="span">Output 3</td>
+<td markdown="span">Spatially optimal manure recycling strategies to reduce nutrient surpluses and lime requirements</td>
 </tr>
 </tbody>
 </table>

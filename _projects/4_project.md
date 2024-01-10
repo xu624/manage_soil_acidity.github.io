@@ -1,9 +1,9 @@
 ---
 layout: page
 title: More to go
-description: Optimal management to reduce acidification and Cd pollution
+description: Check my research profile
 img: assets/img/7.jpg
-# redirect: https://unsplash.com
+redirect: https://research.wur.nl/en/persons/donghao-xu
 importance: 4
 category: work
 ---

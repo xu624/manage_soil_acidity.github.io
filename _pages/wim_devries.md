@@ -1,2 +1,2 @@
-<!-- Introduction of Donghao Xu -->
-prof.dr.ir. Wim de Vries: Research scientist at Wageningen Environmental Research and also professor at the Earth Systems and Global Change Group of Wageningen University, holding the chair "Integrated nutrient impact assessment”.  More details in [Research@WUR](https://research.wur.nl/en/persons/wim-de-vries).
+<!-- Introduction of Wim de Vries -->
+prof.dr.ir. Wim de Vries: Research scientist at Wageningen Environmental Research and also professor at the Earth Systems and Global Change Group of Wageningen University, holding the chair "Integrated nutrient impact assessment”.  More details in [Research@WUR](https://research.wur.nl/en/persons/wim-de-vries) and [Linkedin](https://nl.linkedin.com/in/wim-de-vries-b008591b).
