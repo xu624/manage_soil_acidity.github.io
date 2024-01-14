@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Experience of mitigating soil acidification around the world
+title: Soil acidity in Western Australia
 date: 2023-01-14 20:40:16
-description: march & april, looking forward to summer
+description: Experience of mitigating soil acidification around the world
 tags: mitigation
 categories: sample-posts
 ---
