@@ -1,9 +1,9 @@
 ---
 layout: post
-title: a post with formatting and links
-date: 2015-03-15 16:40:16
+title: Experience of mitigating soil acidification around the world
+date: 2023-01-14 20:40:16
 description: march & april, looking forward to summer
-tags: formatting links
+tags: mitigation
 categories: sample-posts
 ---
 
