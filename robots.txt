@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://manage_soil_acidity.github.io/sitemap.xml
+Sitemap: https://xu624.github.io/soilacidty_manage//sitemap.xml
